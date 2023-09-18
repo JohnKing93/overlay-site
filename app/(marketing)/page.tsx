@@ -44,7 +44,7 @@ export default async function IndexPage() {
         <div className="mx-auto grid justify-center gap-4 sm:grid-cols-2 md:max-w-[64rem] md:grid-cols-3">
           <div className="relative overflow-hidden rounded-lg border bg-background p-2">
             <div className="flex h-[220px] flex-col justify-between rounded-md p-6">
-              <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.5" className="h-12 w-12">
+              <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth="1.5" className="h-12 w-12">
                 <path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0111.186 0z" />
               </svg>
               <div className="space-y-2">
@@ -57,7 +57,7 @@ export default async function IndexPage() {
           </div>
           <div className="relative overflow-hidden rounded-lg border bg-background p-2">
             <div className="flex h-[220px] flex-col justify-between rounded-md p-6">
-              <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.5" className="h-12 w-12">
+              <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth="1.5" className="h-12 w-12">
                 <path stroke-linecap="round" stroke-linejoin="round" d="M7.5 7.5h-.75A2.25 2.25 0 004.5 9.75v7.5a2.25 2.25 0 002.25 2.25h7.5a2.25 2.25 0 002.25-2.25v-7.5a2.25 2.25 0 00-2.25-2.25h-.75m-6 3.75l3 3m0 0l3-3m-3 3V1.5m6 9h.75a2.25 2.25 0 012.25 2.25v7.5a2.25 2.25 0 01-2.25 2.25h-7.5a2.25 2.25 0 01-2.25-2.25v-.75" />
               </svg>
               <div className="space-y-2">
@@ -70,7 +70,7 @@ export default async function IndexPage() {
           </div>
           <div className="relative overflow-hidden rounded-lg border bg-background p-2">
             <div className="flex h-[220px] flex-col justify-between rounded-md p-6">
-              <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.5" className="h-12 w-12">
+              <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth="1.5" className="h-12 w-12">
                 <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.607 10.607z" />
               </svg>
               <div className="space-y-2">
@@ -83,7 +83,7 @@ export default async function IndexPage() {
           </div>
           <div className="relative overflow-hidden rounded-lg border bg-background p-2">
             <div className="flex h-[220px] flex-col justify-between rounded-md p-6">
-              <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.5" className="h-12 w-12">
+              <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth="1.5" className="h-12 w-12">
                 <path stroke-linecap="round" stroke-linejoin="round" d="M2.25 7.125C2.25 6.504 2.754 6 3.375 6h6c.621 0 1.125.504 1.125 1.125v3.75c0 .621-.504 1.125-1.125 1.125h-6a1.125 1.125 0 01-1.125-1.125v-3.75zM14.25 8.625c0-.621.504-1.125 1.125-1.125h5.25c.621 0 1.125.504 1.125 1.125v8.25c0 .621-.504 1.125-1.125 1.125h-5.25a1.125 1.125 0 01-1.125-1.125v-8.25zM3.75 16.125c0-.621.504-1.125 1.125-1.125h5.25c.621 0 1.125.504 1.125 1.125v2.25c0 .621-.504 1.125-1.125 1.125h-5.25a1.125 1.125 0 01-1.125-1.125v-2.25z" />
               </svg>
               <div className="space-y-2">
@@ -96,7 +96,7 @@ export default async function IndexPage() {
           </div>
           <div className="relative overflow-hidden rounded-lg border bg-background p-2">
             <div className="flex h-[220px] flex-col justify-between rounded-md p-6">
-              <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.5" className="h-12 w-12">
+              <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth="1.5" className="h-12 w-12">
                 <path stroke-linecap="round" stroke-linejoin="round" d="M6.429 9.75L2.25 12l4.179 2.25m0-4.5l5.571 3 5.571-3m-11.142 0L2.25 7.5 12 2.25l9.75 5.25-4.179 2.25m0 0L21.75 12l-4.179 2.25m0 0l4.179 2.25L12 21.75 2.25 16.5l4.179-2.25m11.142 0l-5.571 3-5.571-3" />
               </svg>
               <div className="space-y-2">
@@ -109,7 +109,7 @@ export default async function IndexPage() {
           </div>
           <div className="relative overflow-hidden rounded-lg border bg-background p-2">
             <div className="flex h-[220px] flex-col justify-between rounded-md p-6">
-              <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.5" className="h-12 w-12">
+              <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth="1.5" className="h-12 w-12">
                 <path stroke-linecap="round" stroke-linejoin="round" d="M9.813 15.904L9 18.75l-.813-2.846a4.5 4.5 0 00-3.09-3.09L2.25 12l2.846-.813a4.5 4.5 0 003.09-3.09L9 5.25l.813 2.846a4.5 4.5 0 003.09 3.09L15.75 12l-2.846.813a4.5 4.5 0 00-3.09 3.09zM18.259 8.715L18 9.75l-.259-1.035a3.375 3.375 0 00-2.455-2.456L14.25 6l1.036-.259a3.375 3.375 0 002.455-2.456L18 2.25l.259 1.035a3.375 3.375 0 002.456 2.456L21.75 6l-1.035.259a3.375 3.375 0 00-2.456 2.456zM16.894 20.567L16.5 21.75l-.394-1.183a2.25 2.25 0 00-1.423-1.423L13.5 18.75l1.183-.394a2.25 2.25 0 001.423-1.423l.394-1.183.394 1.183a2.25 2.25 0 001.423 1.423l1.183.394-1.183.394a2.25 2.25 0 00-1.423 1.423z" />
               </svg>
               <div className="space-y-2">
