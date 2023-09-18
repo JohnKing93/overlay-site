@@ -6,6 +6,5 @@ export const siteConfig: SiteConfig = {
   url: "https://getoverlay.com",
   links: {
     twitter: "https://twitter.com/getoverlay",
-    github: "",
   },
 }
