@@ -2,12 +2,10 @@ import { SiteConfig } from "types"
 
 export const siteConfig: SiteConfig = {
   name: "Overlay",
-  description:
-    "An open source application built using the new router, server components and everything new in Next.js 13.",
-  url: "https://tx.shadcn.com",
-  ogImage: "https://tx.shadcn.com/og.jpg",
+  description: "Search and chat with articles, photos, and videos saved from your favorite apps.",
+  url: "https://getoverlay.com",
   links: {
-    twitter: "https://twitter.com/jkingggg",
-    github: "https://github.com/shadcn/taxonomy",
+    twitter: "https://twitter.com/getoverlay",
+    github: "",
   },
 }
