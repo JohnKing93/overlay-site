@@ -33,6 +33,7 @@ export type SiteConfig = {
   url: string
   links: {
     twitter: string
+    waitlist: string
   }
 }
 

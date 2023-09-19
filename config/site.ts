@@ -6,5 +6,6 @@ export const siteConfig: SiteConfig = {
   url: "https://getoverlay.com",
   links: {
     twitter: "https://twitter.com/getoverlay",
+    waitlist: "https://forms.gle/Db2gEiT6FLoYvd4d6"
   },
 }

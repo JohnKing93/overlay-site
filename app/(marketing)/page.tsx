@@ -23,8 +23,13 @@ export default async function IndexPage() {
             Search and chat with articles, photos, and videos saved from your favorite apps.
           </p>
           <div className="space-x-4">
-            <Link href="/" className={cn(buttonVariants({ size: "lg" }))}>
-              Waitlist coming soon
+            <Link
+              href={siteConfig.links.waitlist}
+              target="_blank"
+              rel="noreferrer"
+              className={cn(buttonVariants({ size: "lg" }))}
+            >
+            Join waitlist
             </Link>
           </div>
         </div>
